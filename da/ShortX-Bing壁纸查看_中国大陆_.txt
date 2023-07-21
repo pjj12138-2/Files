@@ -17,7 +17,7 @@
     "positive": "横屏",
     "onPositive": [{
       "@type": "type.googleapis.com/ExecuteMVEL",
-      "expression": "\"https://www.bing.com\"+{httpRequestRet2}+\"_1920x1080.jpg\"",
+      "expression": "\"https://www.bing.com\"+{httpRequestRet2}+\"_UHD.jpg\u0026w\u003d3840\u0026h\u003d2160\"",
       "id": "A-f3b8b0bd-ee12-408a-9aa8-6d8eb1d3ee1e"
     }],
     "negative": "介绍",
@@ -42,14 +42,14 @@
     "id": "A-322af8b2-fb35-4e5d-8b05-9cd2b635f930"
   }],
   "id": "DA8f33eb1b-cb44-4234-a3f9-46dc21fbb483",
-  "lastUpdateTime": "1689910644956",
+  "lastUpdateTime": "1689958502998",
   "createTime": "1689042421627",
-  "versionCode": 2,
+  "versionCode": 3,
   "author": {
     "name": "淫乱"
   },
   "title": "Bing壁纸查看（中国大陆）",
-  "description": "手动获取bing每日壁纸，并在浏览器内查看（不下载）"
+  "description": "手动获取bing每日壁纸，并在浏览器内查看（不下载）\n横屏升级为4k。竖屏不提供4k，没有办法。"
 }
 ###------###
 {"type":"da"}

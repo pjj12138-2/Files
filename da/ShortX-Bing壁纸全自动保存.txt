@@ -48,7 +48,7 @@
     "id": "A-c40f2ec4-63a5-4c7f-9096-b13084a71179"
   }, {
     "@type": "type.googleapis.com/ExecuteMVEL",
-    "expression": "\"https://www.bing.com\"+{httpRequestRet1}+\"_1920x1080.jpg\"",
+    "expression": "\"https://www.bing.com\"+{httpRequestRet1}+\"_UHD.jpg\u0026w\u003d3840\u0026h\u003d2160\"",
     "id": "A-60ae50db-4fbc-4174-9b2d-7080ec4ccd42"
   }, {
     "@type": "type.googleapis.com/ShellCommand",
@@ -73,14 +73,14 @@
     "id": "A-07d700e0-bf89-46c2-9ca4-2d0e8f342942"
   }],
   "id": "DAfc48c802-8738-4858-b6d2-70ba70f2f2a0",
-  "lastUpdateTime": "1689907469283",
+  "lastUpdateTime": "1689958395730",
   "createTime": "1689595856939",
-  "versionCode": 2,
+  "versionCode": 3,
   "author": {
     "name": "淫乱"
   },
   "title": "Bing壁纸全自动保存",
-  "description": "获取bing每日壁纸到本地（中国大陆），全自动版本"
+  "description": "获取bing每日壁纸到本地（中国大陆），全自动版本。\n横屏升级至4k。竖屏暂时没有提供4k，我也没有办法。"
 }
 ###------###
 {"type":"da"}
