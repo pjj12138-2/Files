@@ -2,7 +2,7 @@
   "directActions": [
     {
       "id": "DA9002f6e2-8407-4802-b46e-5e215ec31434",
-      "fileUrl": "https://raw.githubusercontent.com/pjj12138-2/Files/main/da/ShortX-Bing壁纸下载_中国_.txt",
+      "fileUrl": "https://raw.githubusercontent.com/ShortX-Repo/Files/main/da/ShortX-Bing壁纸下载_中国_.txt",
       "title": "Bing壁纸下载（中国）",
       "description": "（单次下载用这个）获取bing每日壁纸到本地（中国大陆）\n横屏升级至4k。竖屏不提供4k，没有办法。",
       "versionCode": 4,
@@ -12,7 +12,7 @@
     },
     {
       "id": "DA85a8f0c9-4eb9-47cb-b070-61f830ca967c",
-      "fileUrl": "https://raw.githubusercontent.com/pjj12138-2/Files/main/da/ShortX-简易密码生成器0.2_改进_.txt",
+      "fileUrl": "https://raw.githubusercontent.com/ShortX-Repo/Files/main/da/ShortX-简易密码生成器0.2_改进_.txt",
       "title": "简易密码生成器0.2(改进)",
       "description": "一个简易字符串生成方法 需要改进的地方还有很多",
       "versionCode": 0,
@@ -22,7 +22,7 @@
     },
     {
       "id": "DA9122b14f-a902-48f5-8dcb-f2b98881519d",
-      "fileUrl": "https://raw.githubusercontent.com/pjj12138-2/Files/main/da/ShortX-IP查询.txt",
+      "fileUrl": "https://raw.githubusercontent.com/ShortX-Repo/Files/main/da/ShortX-IP查询.txt",
       "title": "IP查询",
       "description": "查询归属地并用弹幕通知",
       "versionCode": 0,
@@ -32,7 +32,7 @@
     },
     {
       "id": "DA8f33eb1b-cb44-4234-a3f9-46dc21fbb483",
-      "fileUrl": "https://raw.githubusercontent.com/pjj12138-2/Files/main/da/ShortX-Bing壁纸查看_中国大陆_.txt",
+      "fileUrl": "https://raw.githubusercontent.com/ShortX-Repo/Files/main/da/ShortX-Bing壁纸查看_中国大陆_.txt",
       "title": "Bing壁纸查看（中国大陆）",
       "description": "手动获取bing每日壁纸，并在浏览器内查看（不下载）\n横屏升级为4k。竖屏不提供4k，没有办法。",
       "versionCode": 3,
@@ -42,7 +42,7 @@
     },
     {
       "id": "DAfc48c802-8738-4858-b6d2-70ba70f2f2a0",
-      "fileUrl": "https://raw.githubusercontent.com/pjj12138-2/Files/main/da/ShortX-Bing壁纸全自动保存.txt",
+      "fileUrl": "https://raw.githubusercontent.com/ShortX-Repo/Files/main/da/ShortX-Bing壁纸全自动保存.txt",
       "title": "Bing壁纸全自动保存",
       "description": "获取bing每日壁纸到本地（中国大陆），全自动版本。\n横屏升级至4k。竖屏暂时没有提供4k，我也没有办法。",
       "versionCode": 3,
@@ -52,7 +52,7 @@
     },
     {
       "id": "DA6d0ad33b-c15f-4b4d-915f-a457e9b35408",
-      "fileUrl": "https://raw.githubusercontent.com/pjj12138-2/Files/main/da/ShortX-B站IP地址检查.txt",
+      "fileUrl": "https://raw.githubusercontent.com/ShortX-Repo/Files/main/da/ShortX-B站IP地址检查.txt",
       "title": "B站IP地址检查",
       "description": "看看b站认为你在哪",
       "versionCode": 1,
